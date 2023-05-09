@@ -1,7 +1,7 @@
 
 import cv2
 
-image = cv2.imread('/Users/jacop/pythonProject/Lab7/WorldCupMessi.jpeg')
+image = cv2.imread('/Users/jacob/pythonProject/Lab7/WorldCupMessi.jpeg')
 
 blue, green, red = cv2.split(image)
 
